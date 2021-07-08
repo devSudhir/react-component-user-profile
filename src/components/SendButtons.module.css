@@ -1,0 +1,12 @@
+.borderButton {
+  border: 1px solid #03bfcb;
+}
+.colorbutton {
+  background: #03bfcb;
+  color: hsl(251, 31%, 17%);
+}
+.btn {
+  padding: 10px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+}
